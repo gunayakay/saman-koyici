@@ -3,7 +3,7 @@
   "compilerOptions": {
     "moduleResolution": "node",
     "rootDir": ".",
-    "baseUrl": "C:/Users/Cem/Desktop/saman-koyici",
+    "baseUrl": "/Users/macbookpro/saman-koyici",
     "paths": {
       "@components": [
         "./src/components/index"
